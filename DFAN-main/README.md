@@ -19,7 +19,7 @@ python train.py
 ```
 ### Testing
 - Download the pre-trained BDE model.
-- Download the testing dataset.
+- Download the testing dataset: https://pan.baidu.com/s/1ApwLKGQ2ECFUapB90kETzg  code:1357
 - Run the following commands:
 ```
 # test BDE
