@@ -19,7 +19,7 @@ python train.py
 ```
 ### Testing
 - Download the pre-trained BDE model.
-- Download the testing dataset: https://drive.google.com/drive/folders/1c7RWgOVUNzrwbL5ef8gD5pasvT5Jh8iV?usp=sharing
+- Download the testing dataset: The Sintel, FiveK-40 and Sampling datasets can be found here: https://www.xiph.org/, https://data.csail.mit.edu/graphics/fivek/ and at https://testimages.org/.
 - Run the following commands:
 ```
 # test BDE
